@@ -4,7 +4,6 @@
 	"colors": {
 		"editor.background": "#170A1C",
 		"editor.foreground": "#fff",
-		//Estado de los items de la barra lateral
 		"activityBarBadge.background": "#fb7e43",
 		"sideBarTitle.foreground": "#5BC8AF"
 	},
