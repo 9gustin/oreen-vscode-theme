@@ -1,6 +1,9 @@
 # 9gu-vscode-theme
 A theme to VSCode.
 
+## Download
+[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=9gustin.9gu-vs-theme)
+
 ## Screenshots
 
 #### HTML
