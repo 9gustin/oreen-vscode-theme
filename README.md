@@ -7,5 +7,5 @@ A theme to VSCode.
  - secondary: #DD7F55
 
 ## Download
-
+[VS Marketplace](https://marketplace.visualstudio.com/items?itemName=9gustin.oreen)
 ## Screenshots
