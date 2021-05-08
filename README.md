@@ -1,15 +1,16 @@
 # Oreen
 A theme to VSCode.
 
-## Colors 
- - bg: #120816
- - primary: #5fb0b7
- - secondary: #DD7F55
 
 ## Download
 [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=9gustin.oreen)
 
-## Screenshots
+### Colors 
+ - bg: #120816
+ - primary: #5fb0b7
+ - secondary: #DD7F55
+
+### Screenshots
 
 #### TS/TSX
 ![image](https://user-images.githubusercontent.com/38046239/117548055-2e206000-b009-11eb-9b58-7fa8cbc50e0b.png)
