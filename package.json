@@ -1,9 +1,9 @@
 {
-    "name": "9gu-vs-theme",
-    "displayName": "9gu-vs-theme",
-    "description": "",
+    "name": "oreen",
+    "displayName": "Oreen",
+    "description": "A theme maded by 9gustin",
     "publisher": "9gustin",
-    "version": "1.0.2",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.53.0"
     },
@@ -12,12 +12,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/9gustin/9gu-vscode-theme.git"
+        "url": "https://github.com/9gustin/oreen-vscode-theme.git"
     },
     "contributes": {
         "themes": [
             {
-                "label": "9gu vs theme",
+                "label": "Oreen",
                 "uiTheme": "vs-dark",
                 "path": "./themes/theme.json"
             }
