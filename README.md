@@ -1,14 +1,23 @@
 # Oreen
 A theme to VSCode.
 
-
 ## Download
 [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=9gustin.oreen)
 
+
+## How to dev?
+Clone this repo and run in vscode(with the start button) :)
+
 ### Colors 
- - bg: #120816
- - primary: #5fb0b7
- - secondary: #DD7F55
+Background: #181e29
+Comments: #677897
+Main Orange: #d38561
+Second Orange: #da7252
+Lightblue: #99c0d8
+Second Lightblue: #aed1ff
+Main Green-blue: #5FB0B7
+Second Green-blue: #5bc8a4
+Between Lightblue and Green-blue: #84DCCF
 
 ### Screenshots
 
@@ -23,3 +32,15 @@ A theme to VSCode.
 #### HTML
 ![image](https://user-images.githubusercontent.com/38046239/117548019-0630fc80-b009-11eb-82c9-2c809af19ee1.png)
 
+##### Previous colors:
+ - bg: #120816
+ - comments: #706a73
+ - primary: #5fb0b7
+ - secondary: #DD7F55
+ - imports: #5FB0B7
+ - operators: b5dcf5
+ - names: 5FB0B7
+ - import namespaces: 6C91BF
+ - names and types: 5BC8AF
+ - submethods: FF5370
+ - light green: 84DCCF
