@@ -4,7 +4,7 @@
     "description": "A theme maded by 9gustin",
     "publisher": "9gustin",
     "icon": "assets/code.png",
-    "version": "2.0.2",
+    "version": "2.1.0",
     "engines": {
         "vscode": "^1.53.0"
     },
