@@ -1,0 +1,13 @@
+##### Previous colors:
+
+ - bg: #120816
+ - comments: #706a73
+ - primary: #5fb0b7
+ - secondary: #DD7F55
+ - imports: #5FB0B7
+ - operators: b5dcf5
+ - names: 5FB0B7
+ - import namespaces: 6C91BF
+ - names and types: 5BC8AF
+ - submethods: FF5370
+ - light green: 84DCCF
